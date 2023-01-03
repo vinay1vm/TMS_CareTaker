@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/border.xml" value="0.2765" />
         <entry key="app/src/main/res/drawable/slider_background.xml" value="0.2765" />
+        <entry key="app/src/main/res/layout/activity_bills.xml" value="0.2776268115942029" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2776268115942029" />
         <entry key="app/src/main/res/layout/slider.xml" value="0.2776268115942029" />
       </map>
