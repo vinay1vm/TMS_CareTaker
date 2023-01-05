@@ -87,7 +87,7 @@ public class Bills extends AppCompatActivity {
                 }else {
 
                     databaseReference.child("UsersForBills").child(door).child("amount").setValue(amts);
-                    databaseReference.child("UsersForBills").child(door).child("description").setValue(des);
+                    databaseReference.child("UsersForBills").child(door).child("b_description").setValue(des);
 
                     Toast.makeText(Bills.this, "Bill Sent", Toast.LENGTH_SHORT).show();
 

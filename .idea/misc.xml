@@ -5,8 +5,13 @@
       <map>
         <entry key="app/src/main/res/drawable/border.xml" value="0.2765" />
         <entry key="app/src/main/res/drawable/slider_background.xml" value="0.2765" />
+        <entry key="app/src/main/res/layout/activity_bill_details.xml" value="0.29936594202898553" />
         <entry key="app/src/main/res/layout/activity_bills.xml" value="0.2776268115942029" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2776268115942029" />
+        <entry key="app/src/main/res/layout/activity_notify.xml" value="0.2078125" />
+        <entry key="app/src/main/res/layout/activity_requests.xml" value="0.2078125" />
+        <entry key="app/src/main/res/layout/activity_view_bills.xml" value="0.2078125" />
+        <entry key="app/src/main/res/layout/item.xml" value="0.29936594202898553" />
         <entry key="app/src/main/res/layout/slider.xml" value="0.2776268115942029" />
       </map>
     </option>
